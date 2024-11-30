@@ -20,5 +20,5 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white)
 
-## 📈 Stats
-![Lyney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyney&show_icons=true&theme=radical)
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyney&layout=compact&theme=radical)
