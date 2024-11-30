@@ -1,5 +1,4 @@
 # Hi there, I'm Lyney! 👋
-🎩✨ Welcome to my GitHub profile! ✨🎩
 
 ## 🌟 About Me
 - 🌱 Currently exploring Quantum Computing and AI.
