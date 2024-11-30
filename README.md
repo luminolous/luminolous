@@ -21,4 +21,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyney&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminolous&layout=compact&theme=radical)
+
+## 📈 Stats
+![Lyney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luminolous&show_icons=true&theme=radical)
