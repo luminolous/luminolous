@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - 🌱 Currently exploring Quantum Computing and AI.
-- 🔭 Interested in building an ai chatbot.
+- 🔭 Interested in building an AI Chatbot.
 
 ## 🛠️ Skills
 ### Programming Languages
