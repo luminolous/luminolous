@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Lyney! 👋
+🎩✨ Welcome to my GitHub profile! ✨🎩
 
-<!--
-**luminolous/luminolous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🌱 Currently exploring Quantum Computing and AI.
+- 🔭 Interested in building an ai chatbot.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Frameworks
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-orange?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white)
+
+## 📈 Stats
+![Lyney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyney&show_icons=true&theme=radical)
