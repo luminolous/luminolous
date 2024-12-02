@@ -1,7 +1,7 @@
 # Hi there, I'm Lyney! 👋
 
 ## 🌟 About Me
-- 🌱 Currently exploring Quantum Computing and AI.
+- 🌱 Currently exploring Quantum Computing, AI adn Web3.
 - 🔭 Interested in building an AI Chatbot.
 
 ## 🛠️ Skills
