@@ -16,6 +16,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white)
 
