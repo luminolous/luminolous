@@ -9,6 +9,8 @@
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
 
