@@ -21,6 +21,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-4285F4?logo=google&logoColor=white)
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminolous&layout=compact&theme=radical)
