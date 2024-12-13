@@ -24,5 +24,4 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-4285F4?logo=google&logoColor=white)
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminolous&layout=compact&theme=white)
+
