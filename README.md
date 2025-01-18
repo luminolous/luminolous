@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - 🌱 Currently exploring AI and Web3.
-- 🔭 Interested in building an AI Assistent.
+- 🔭 Interested in building an AI Assistant.
 
 ## 🛠️ Skills
 ### Programming Languages
