@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Callahan!
+# Hi, I'm Callahan!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Machine+Learning+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
 
@@ -32,20 +32,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminolous&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=luminolous&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=luminolous&label=Profile%20Views&color=0e75b6&style=flat)
-
 ---
 
-## 🐍 Contribution Snake (Just for Fun)
-![snake gif](https://github.com/luminolous/luminolous/blob/output/github-contribution-grid-snake.svg)
+## 🏆 GitHub Trophies
 
----
-
-## 🏞️ Custom Banner
-<img src="https://yourbannerlink.com/banner.png" alt="Banner" />
-
----
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=luminolous&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=luminolous&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
