@@ -1,6 +1,4 @@
-# Hi, I'm Callahan!
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=498&lines=Deep+Learning+Explorer;Building+intelligent+systems.;Cogito+Ergo+Sum.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=498&lines=Hi,+I'm+Callahan!;Deep+Learning+Explorer;Building+intelligent+systems.;Cogito+Ergo+Sum.)
 
 ---
 
