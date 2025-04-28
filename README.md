@@ -1,6 +1,7 @@
 # Hi, I'm Callahan!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Machine+Learning+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941E&width=435&lines=Hi,+I'm+YourName!;Welcome+to+my+GitHub+profile.;Machine+Learning+Enthusiast+%F0%9F%9A%80)
+
 
 ---
 
