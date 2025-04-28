@@ -1,12 +1,6 @@
 # Hi, I'm Callahan!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Hi,+I'm+Callahan!;Welcome+to+my+GitHub+profile.;Machine+Learning+Enthusiast+%F0%9F%9A%80)
-
-
----
-
-## 👨‍💻 About Me
-- 🔥 Passionate in **Artificial Intelligence**, **Data Science**, and **Blockchain Technologies**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Hi,+I'm+Callahan!;Welcome+to+my+GitHub+profile.;Data+Science+Enthusiast+%F0%9F%9A%80)
 
 ---
 
