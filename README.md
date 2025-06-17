@@ -1,7 +1,6 @@
 # Lumy's here!
 
-# 👋 Hi, I'm [Your Name]!
-
+<!--
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=00008B&width=435&lines=Deep+Learning+Enthusiast+🚀;Machine+Learning+Tinkerer+🤖;Exploring+the+Future+of+AI.)
 
 ---
@@ -80,3 +79,4 @@ Here are some of my latest thoughts and tutorials:
 > *"The future doesn't belong to the smartest, but to the most curious who learn endlessly."*
 
 ---
+-->
