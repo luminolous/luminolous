@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hi, I'm Lumy!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00008B&width=435&lines=Deep+Learning+Enthusiast+%F0%9F%9A%80;AI+Explorer+%F0%9F%A4%96;Code.+Learn.+Repeat.)
+
 
 <!--
 **luminolous/luminolous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
