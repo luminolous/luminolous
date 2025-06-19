@@ -10,10 +10,10 @@ I'm **Lumy**, an enthusiastic developer passionate about AI and Data Science.
 
 ### Skills & Tech Stack
 
-**Languages:** Python, C++, HTML, CSS, JavaScript  
-**Frameworks:** Pytorch, Tensorflow, React
-**Databases:** MySQL
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Languages:** Python, C++, HTML, CSS, JavaScript  
+- **Frameworks:** Pytorch, Tensorflow, React
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
