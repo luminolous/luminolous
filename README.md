@@ -32,5 +32,6 @@ Here are some of the projects I’ve worked on:
 - [COPPA Risk Classification](https://github.com/luminolous/coppaRisk-classificationModel): Developed a machine learning pipeline to predict COPPA violation probabilities in mobile apps using metadata, EDA, feature engineering, and calibrated ensemble models.
 - [Fraud Detection](https://github.com/luminolous/FraudDetection-GDGoC): Built an end-to-end pipeline to classify water quality data reliability by cleaning raw measurements, engineering domain-specific features, and training an XGBoost model.
 - [Data Quality Classification](https://github.com/luminolous/data-quality-classification): Designed a fraud detection system using Random Forest, LightGBM, and XGBoost models combined through weighted ensemble and threshold optimization for improved accuracy.
+- [Car Price Prediction](https://github.com/luminolous/car-price-prediction): A car price prediction project that leverages structured automotive features and feature engineering to build an effective predictive model.
 <!--
 -->
