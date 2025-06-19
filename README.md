@@ -2,7 +2,7 @@
 
 <!--
 -->
-I'm **Lumy**, an AI Research enthusiast, active in AI and Data Science project.
+AI Research enthusiast, active in AI and Data Science project.
 
 ---
 
