@@ -6,7 +6,7 @@ AI Research enthusiast, active in AI and Data Science project.
 
 ---
 
-## About Me <img src="assets/❏┊ᴋᴏᴍɪ sʜᴏᴜᴋᴏ┊´˗.jpg" height="18"/>
+## About Me <img src="assets/❏┊ᴋᴏᴍɪ sʜᴏᴜᴋᴏ┊´˗.jpg" height="20"/>
 
 ### Skills & Tech Stack
 
