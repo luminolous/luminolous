@@ -17,7 +17,7 @@ I'm **Lumy**, an enthusiastic developer passionate about AI and Data Science.
 
 ---
 
-### Favorite Things to Build
+### Favorite Things to do
 - Neural network experiments
 - Data Science project
 - Machine Learning & AI applications
