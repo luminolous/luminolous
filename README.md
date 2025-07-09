@@ -2,7 +2,7 @@
 
 <!--
 -->
-AI Research enthusiast, active in AI Project and Research.
+AI Research enthusiast, active in AI Project, Research, and Competition.
 
 ---
 
