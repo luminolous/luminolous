@@ -2,7 +2,7 @@
 
 <!--
 -->
-AI Research enthusiast, active in AI Project, Research, and Competition.
+AI Research Enthusiast, active in AI Project, Research, and Competition.
 
 ---
 
@@ -18,8 +18,8 @@ AI Research enthusiast, active in AI Project, Research, and Competition.
 ---
 
 ### Favorite Things to do
-- Neural network experiments
-- Data Science project
+- Neural Network experiments
+- AI and Data Science project
 - Machine Learning & AI applications
 
 ---
