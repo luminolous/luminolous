@@ -24,7 +24,7 @@ AI Research Enthusiast | Active in AI Research and Project
 
 ---
 
-## Project List
+## My top 6 projects that I've made
 
 Here are some of the projects I’ve worked on:
 
