@@ -1,6 +1,6 @@
 <div align="center">
 
-  **<h1>Hola 皆さん, welcome to Lumy's github repo!🐾</h1>**
+  **<h1>Hola 皆さん, welcome to Lumy's repo!🐾</h1>**
   <!--
   -->
   **<h3>She's my waifu, Chichi. She's cute, isn't she? ⸜(｡˃ ᵕ ˂ )⸝♡</h3>**
