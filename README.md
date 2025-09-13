@@ -3,9 +3,9 @@
   # Lumy's here!
   <!--
   -->
-  ## AI Research Enthusiast | Active in AI Research and Project
+  **AI Research Enthusiast | Active in AI Research and Project**
 
-</div>
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="600" alt="deskripsi GIF">
@@ -26,3 +26,4 @@ Here are some of the projects I’ve worked on:
 - [Car Price Prediction](https://github.com/luminolous/car-price-prediction): A car price prediction project that leverages structured automotive features and feature engineering to build an effective predictive model.
 <!--
 -->
+</div>
