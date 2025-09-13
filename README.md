@@ -1,11 +1,12 @@
 <div align="center">
 
-  # Lumy's here!
+  # Hello there, Lumy's here!
   <!--
+  test
   -->
 
+  
 <p align="center">
-  ## **AI Research Enthusiast | Active in AI Research and Project**
   <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="600" alt="deskripsi GIF">
 </p>
 
