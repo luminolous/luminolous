@@ -15,7 +15,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/<handle>">
     <img alt="LinkedIn" height="28"
-         src="https://img.shields.io/badge/-?logo=linkedin&logoColor=white&color=0A66C2&label=" />
+         src="https://img.favpng.com/7/18/16/linkedin-logo-computer-icons-business-png-favpng-w5YjZLCyfwJ6gt6UrmpxCf916.jpg" />
   </a>
 
   <!-- Kaggle -->
