@@ -2,12 +2,11 @@
 
   # Hello there, Lumy's here!
   <!--
-  test
   -->
-
+  **⸜(｡˃ ᵕ ˂ )⸝♡ she's cute isn't she?**
   
 <p align="center">
-  <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="810" alt="deskripsi GIF">
+  <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="720" alt="deskripsi GIF">
 </p>
 
 </div>
