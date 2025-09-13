@@ -6,21 +6,10 @@ AI Research Enthusiast | Active in AI Research and Project
 
 ---
 
-## About Me
+<p align="center">
+  <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="480" alt="deskripsi GIF">
+</p>
 
-### Skills & Tech Stack
-
-- **Languages:** Python, C++, HTML, CSS, JavaScript  
-- **Frameworks:** Pytorch, Tensorflow, React
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-
----
-
-### Favorite Things to do
-- Neural Network experiments
-- AI and Data Science project
-- Machine Learning & AI applications
 
 ---
 
