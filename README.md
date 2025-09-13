@@ -9,13 +9,35 @@
   <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="720" alt="deskripsi GIF">
 </p>
 
-<!-- logo-only + for-the-badge (ikon besar, tanpa teks) -->
-[![HF](https://img.shields.io/badge/-?logo=huggingface&logoColor=000&color=ffcc4d&style=for-the-badge&label=)](https://huggingface.co/<username>)
-[![Kaggle](https://img.shields.io/badge/-?logo=kaggle&logoColor=fff&color=20BEFF&style=for-the-badge&label=)](https://kaggle.com/<username>)
-[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=fff&color=0A66C2&style=for-the-badge&label=)](https://www.linkedin.com/in/<handle>/)
-[![Discord](https://img.shields.io/badge/-?logo=discord&logoColor=fff&color=5865F2&style=for-the-badge&label=)](https://discord.gg/<kode-invite>)
-
 </div>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/<handle>">
+    <img alt="LinkedIn" height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Kaggle -->
+  <a href="https://kaggle.com/<username>">
+    <img alt="Kaggle" height="28" src="https://cdn.simpleicons.org/kaggle/20BEFF" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Instagram (pakai warna brand; gradient resmi tidak bisa via CDN) -->
+  <a href="https://instagram.com/<username>">
+    <img alt="Instagram" height="28" src="https://cdn.simpleicons.org/instagram/E4405F" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Medium (dibikin rounded square biar mirip tile) -->
+  <a href="https://medium.com/@<username>">
+    <img alt="Medium" height="28" src="https://cdn.simpleicons.org/medium/12100E"
+         style="padding:6px;border-radius:10px;background:#F4E9E2;" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Ganti yang ini sesuai kebutuhanmu (contoh: Google Analytics) -->
+  <a href="https://analytics.google.com/">
+    <img alt="Google Analytics" height="28" src="https://cdn.simpleicons.org/googleanalytics/F9AB00" />
+  </a>
+</p>
 
 ---
 
