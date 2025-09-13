@@ -1,13 +1,12 @@
+<div align="center">
 
-
-<p align="center">
   # Lumy's here!
 
   <!--
   -->
   AI Research Enthusiast | Active in AI Research and Project
-</p>
 
+</div>
 
 ---
 
