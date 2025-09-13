@@ -11,35 +11,6 @@
 
 </div>
 
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/<handle>">
-    <img alt="LinkedIn" height="28"
-         src="https://img.favpng.com/7/18/16/linkedin-logo-computer-icons-business-png-favpng-w5YjZLCyfwJ6gt6UrmpxCf916.jpg" />
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/luminolous">
-    <img alt="Kaggle" height="28" src="https://cdn.simpleicons.org/kaggle/20BEFF" />
-  </a>&nbsp;&nbsp;
-
-  <!-- Instagram (pakai warna brand; gradient resmi tidak bisa via CDN) -->
-  <a href="https://www.instagram.com/luminolous/">
-    <img alt="Instagram" height="28" src="https://cdn.simpleicons.org/instagram/E4405F" />
-  </a>&nbsp;&nbsp;
-
-  <!-- Medium (dibikin rounded square biar mirip tile) -->
-  <a href="https://medium.com/@<username>">
-    <img alt="Medium" height="28" src="https://simpleicons.org/icons/medium.svg"
-         style="padding:6px;border-radius:10px;background:#F4E9E2;" />
-  </a>&nbsp;&nbsp;
-
-  <!-- Ganti yang ini sesuai kebutuhanmu (contoh: Google Analytics) -->
-  <a href="https://analytics.google.com/">
-    <img alt="Discord" height="28" src="https://cdn.simpleicons.org/discord/5865F2" />
-  </a>
-</p>
-
 ---
 
 ## What I've Done?🌤️
