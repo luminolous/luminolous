@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 <p align="center">
   <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="480" alt="deskripsi GIF">
 </p>
