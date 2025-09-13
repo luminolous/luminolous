@@ -11,13 +11,6 @@
 
 </div>
 
-<a href="https://huggingface.co/<username>">
-  <img alt="Hugging Face" src="https://cdn.simpleicons.org/huggingface/FFD21E" height="32">
-</a>
-<a href="https://www.kaggle.com/<username>">
-  <img alt="Kaggle" src="https://cdn.simpleicons.org/kaggle/20BEFF" height="32">
-</a>
-
 ---
 
 ## What I've Done?🌤️
