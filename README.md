@@ -7,7 +7,7 @@
 
   
 <p align="center">
-  <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="600" alt="deskripsi GIF">
+  <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="810" alt="deskripsi GIF">
 </p>
 
 </div>
