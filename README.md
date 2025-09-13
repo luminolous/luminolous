@@ -29,7 +29,7 @@
 
   <!-- Medium (dibikin rounded square biar mirip tile) -->
   <a href="https://medium.com/@<username>">
-    <img alt="Medium" height="28" src="https://cdn.simpleicons.org/medium/12100E"
+    <img alt="Medium" height="28" src="https://simpleicons.org/icons/medium.svg"
          style="padding:6px;border-radius:10px;background:#F4E9E2;" />
   </a>&nbsp;&nbsp;
 
