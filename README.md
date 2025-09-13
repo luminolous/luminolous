@@ -3,7 +3,7 @@
   # Hello there, Lumy's here!
   <!--
   -->
-  <font size="10">**⸜(｡˃ ᵕ ˂ )⸝♡ she's cute isn't she?**</font>  
+  <p>**⸜(｡˃ ᵕ ˂ )⸝♡ she's cute isn't she?**</p> 
   
 <p align="center">
   <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="720" alt="deskripsi GIF">
