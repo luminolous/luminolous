@@ -11,6 +11,22 @@
 
 </div>
 
+<p align="center">
+  <a href="https://huggingface.co/<username>">
+    <img src="https://img.shields.io/badge/HuggingFace-ffcc4d?logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
+  <a href="https://kaggle.com/<username>">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://www.linkedin.com/in/<handle>/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.gg/<kode-invite>">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
+
 ---
 
 ## What I've Done?🌤️
