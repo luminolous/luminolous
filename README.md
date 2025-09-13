@@ -13,17 +13,17 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/<handle>">
+  <a href="https://www.linkedin.com/in/syauqi-nabil-tasri/">
     <img alt="LinkedIn" height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>&nbsp;&nbsp;
 
   <!-- Kaggle -->
-  <a href="https://kaggle.com/<username>">
+  <a href="https://www.kaggle.com/luminolous">
     <img alt="Kaggle" height="28" src="https://cdn.simpleicons.org/kaggle/20BEFF" />
   </a>&nbsp;&nbsp;
 
   <!-- Instagram (pakai warna brand; gradient resmi tidak bisa via CDN) -->
-  <a href="https://instagram.com/<username>">
+  <a href="https://www.instagram.com/luminolous/">
     <img alt="Instagram" height="28" src="https://cdn.simpleicons.org/instagram/E4405F" />
   </a>&nbsp;&nbsp;
 
@@ -35,7 +35,7 @@
 
   <!-- Ganti yang ini sesuai kebutuhanmu (contoh: Google Analytics) -->
   <a href="https://analytics.google.com/">
-    <img alt="Google Analytics" height="28" src="https://cdn.simpleicons.org/googleanalytics/F9AB00" />
+    <img alt="Discord" height="28" src="https://cdn.simpleicons.org/discord/5865F2" />
   </a>
 </p>
 
