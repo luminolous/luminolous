@@ -11,12 +11,6 @@
 
 </div>
 
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-ffcc4d?logo=huggingface&logoColor=black)](https://huggingface.co/<username>)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/<username>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<handle>/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/<kode-invite>)
-
-
 <p align="center">
   <a href="https://huggingface.co/<username>">
     <img src="https://img.shields.io/badge/HuggingFace-ffcc4d?logo=huggingface&logoColor=black" alt="Hugging Face">
