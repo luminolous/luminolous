@@ -1,9 +1,9 @@
 <div align="center">
 
-  # Hello there, Lumy's here!
+  **<h1>Hello there, Lumy's here!</h1>**
   <!--
   -->
-  **<h1>⸜(｡˃ ᵕ ˂ )⸝♡ she's cute isn't she?</h1>**
+  **<h2>⸜(｡˃ ᵕ ˂ )⸝♡ she's cute isn't she?</h2>**
   
 <p align="center">
   <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="720" alt="deskripsi GIF">
