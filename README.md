@@ -11,6 +11,12 @@
 
 </div>
 
+<!-- logo-only + for-the-badge (ikon besar, tanpa teks) -->
+[![HF](https://img.shields.io/badge/-?logo=huggingface&logoColor=000&color=ffcc4d&style=for-the-badge&label=)](https://huggingface.co/<username>)
+[![Kaggle](https://img.shields.io/badge/-?logo=kaggle&logoColor=fff&color=20BEFF&style=for-the-badge&label=)](https://kaggle.com/<username>)
+[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=fff&color=0A66C2&style=for-the-badge&label=)](https://www.linkedin.com/in/<handle>/)
+[![Discord](https://img.shields.io/badge/-?logo=discord&logoColor=fff&color=5865F2&style=for-the-badge&label=)](https://discord.gg/<kode-invite>)
+
 <p align="center">
   <a href="https://huggingface.co/<username>">
     <img src="https://img.shields.io/badge/HuggingFace-ffcc4d?logo=huggingface&logoColor=black" alt="Hugging Face">
