@@ -5,7 +5,7 @@
   -->
   
 <p align="center">
-  <img src="https://media1.tenor.com/m/XA6_dE7q6BUAAAAd/kaoruko-waguri-waguri-kaoruko.gif" width="720" alt="deskripsi GIF">
+  <img src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAC/kaoruko-waguri-kaoruko.gif" width="720" alt="deskripsi GIF">
 </p>
 
   **<h3>- Science is Elegant -</h3>**
