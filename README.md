@@ -3,11 +3,12 @@
   **<h1>Hola 皆さん, Lumy's here!🐾</h1>**
   <!--
   -->
-  **<h3>She's my waifu, Chichi. She's cute, isn't she? ⸜(｡˃ ᵕ ˂ )⸝♡</h3>**
   
 <p align="center">
-  <img src="https://media1.tenor.com/m/EwR2zNQLpbQAAAAd/umm.gif" width="720" alt="deskripsi GIF">
+  <img src="https://media1.tenor.com/m/XA6_dE7q6BUAAAAd/kaoruko-waguri-waguri-kaoruko.gif" width="720" alt="deskripsi GIF">
 </p>
+
+  **<h3>- Science is Elegant -</h3>**
 
 </div>
 
