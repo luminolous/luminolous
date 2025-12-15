@@ -1,5 +1,5 @@
 **<h1>Just a random person who’s curious about the world</h1>**
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/tEKmIPBQr_UAAAAC/dr-stone.gif" width="720" alt="deskripsi GIF">
+  <img src="https://media1.tenor.com/m/A3zPIwf6BfQAAAAC/kaoruko-waguri-the-fragrant-flower-blooms-with-dignity.gif" width="720" alt="deskripsi GIF">
 </p>
