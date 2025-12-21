@@ -19,3 +19,4 @@
 **<h2 align="left">🌨️ Find me elsewhere!</h2>**
 <a href="https://www.kaggle.com/luminolous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="test" height="30" width="40" /></a>
 <a href="https://huggingface.co/lumicero" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="test" height="40" width="50" /></a>
+<a href="https://discord.com/users/756400596126269480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a>
