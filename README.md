@@ -2,7 +2,7 @@
 **<h3 align="center">Welcome to my little github repo (｡•̀ᴗ-)✧ ・ よろしくね!</h3>**
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/A3zPIwf6BfQAAAAC/kaoruko-waguri-the-fragrant-flower-blooms-with-dignity.gif" width="480" alt="deskripsi GIF">
+  <img src="https://github.com/luminolous/CrossLingual-WaguriAI/blob/main/public/my_oc_btw.jpg" width="500" alt="my cutie ava">
 </p>
 
 **<h2 align="left">❄️ About me~</h2>**
