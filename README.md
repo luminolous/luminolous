@@ -15,7 +15,7 @@
 | My cute waifu ⸜(｡˃ ᵕ ˂ )⸝♡ | Kaoruko Waguri🍓 (from [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/anime/59845/Kaoru_Hana_wa_Rin_to_Saku)) |
 | Favorites | Sweet Foods, Classical music, Something cute |
 
-**<h2 align="left">😺 Find me elsewhere!</h2>**
+**<h2 align="left">🌨️ Find me elsewhere!</h2>**
 - test
 - test
 - test
