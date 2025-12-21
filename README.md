@@ -16,6 +16,5 @@
 | Favorites | Sweet Foods, Classical music, Something cute |
 
 **<h2 align="left">🌨️ Find me elsewhere!</h2>**
-- test
-- test
-- test
+<a href="https://www.kaggle.com/luminolous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="test" height="30" width="40" /></a>
+<a href="https://huggingface.co/lumicero" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="test" height="30" width="40" /></a>
