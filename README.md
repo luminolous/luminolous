@@ -13,7 +13,7 @@
 | Current education | AI Engineering Major at Sepuluh Nopember Institute of Technology |
 | Programming language | Python & Javascripts (sometime) |
 | My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡ | Kaoruko Waguri🍓 (from [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/anime/59845/Kaoru_Hana_wa_Rin_to_Saku)) |
-| Favorites | Sweet Foods, Piano, Something cute |
+| Favorites | Sweet Foods, Piano & Violin, Something cute |
 | Fav music vibe | Classical & Romantic🎵 |
 
 **<h2 align="left">🌨️ Find me elsewhere!</h2>**
