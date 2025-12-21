@@ -1,4 +1,4 @@
-**<h1 align="center">Hello there! I'm Lumy☃️</h1>**
+**<h1 align="center">Hi there! I'm Lumy☃️</h1>**
 **<h3 align="center">Welcome to my little github repo (｡•̀ᴗ-)✧ ・ よろしくね!</h3>**
 
 <p align="center">
