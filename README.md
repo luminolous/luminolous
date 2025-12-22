@@ -2,7 +2,7 @@
 **<h3 align="center">Welcome to my little github repo (｡•̀ᴗ-)✧ ・ よろしくね!</h3>**
 
 <p align="center">
-  <img src="public\my_cutie_oc1.jpg" width="720" alt="my cutie ava">
+  <img src="public\myoc1.png" width="720" alt="my cutie ava">
 </p>
 
 **<h2 align="left">❄️ About me~</h2>**
