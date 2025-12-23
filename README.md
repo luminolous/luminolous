@@ -16,6 +16,25 @@
 | Favorites | Sweet Foods, Piano & Violin, Something cute |
 | Fav music vibe | Classical & Romantic 𝄞 |
 
+**<h2>🌊 Current arc</h2>**
+I’ve been vibing with things like~✨
+
+- **Large Language Models**  
+- **Retrieval-based Voice Conversion (RVC)**
+- **Music generation**  
+- **Diffusers / image gen**  
+- **AI engineering** under tight compute (LoRA/LoRA+/PEFT and other “please fit in VRAM” rituals)
+
+I also have a soft spot for **anime (アニメ) datasets** (*text, images, audio…*)  
+*if it’s about anime, I will probably try it at least once* (๑'ᵕ'๑)⸝*
+
+On the side, I’m usually:  
+turning anime data into small multimodal prototypes, hunting for architectures that actually work (and *keep* working),  
+reading biology/science stuff and going *“wait… can ML do that?”* 🧬,  
+and training while listening to **classical / romance** vibes like it’s my character development arc 🎻
+
+*Occasionally, I touch grass too* (ごく稀に) (￣▽￣)ゞ
+
 **<h2 align="left">🫧 Find me elsewhere!</h2>**
 <a href="https://huggingface.co/lumicero" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="test" height="40" width="50" /></a>
 <a href="https://www.kaggle.com/luminolous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="test" height="30" width="40" /></a>
