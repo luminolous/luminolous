@@ -16,7 +16,7 @@
 | Favorites | Sweet Foods, Piano & Violin, Something cute |
 | Fav music vibe | Classical & Romantic 𝄞 |
 
-**<h2>🌊 Current arc</h2>**
+**<h2>🌊 Current arc?</h2>**
 I’ve been vibing with things like~✨
 
 - **Large Language Models**  
