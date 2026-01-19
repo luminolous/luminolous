@@ -9,8 +9,8 @@
 | Category | Details |
 |---|---|
 | Focus | AI Research & Application (especially in Generative Models) |
-| Currently learning | LLMs, Diffuser, and RVC |
 | Current education | AI Engineering Major at Sepuluh Nopember Institute of Technology |
+| Currently learning | LLMs, Diffuser, and RVC |
 | Programming language | Python & Javascripts (sometime) |
 | My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡ | Kaoruko Waguri🍓 (from [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/anime/59845/Kaoru_Hana_wa_Rin_to_Saku)) |
 | Favorites | Sweet Foods, Piano & Violin, Something cute |
