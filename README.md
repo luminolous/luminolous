@@ -18,7 +18,6 @@ Quick snapshot about me~💫
 - My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡: Kaoruko Waguri🍓 & Vestia Zeta🐱
 - Fav music vibe: Classical & Romantic 𝄞
 
-<br clear="right"/>
 <!--
 | Category | Details |
 |---|---|
@@ -30,7 +29,7 @@ Quick snapshot about me~💫
 | Favorites | Sweet Foods, Piano & Violin, Something cute |
 | Fav music vibe | Classical & Romantic 𝄞 |
 -->
-**<h2>🌊 Current arc?</h2>**
+<h2>🌊 Current arc?</h2>
 I’ve been vibing with things like~✨
 
 - **Large Language Models**  
