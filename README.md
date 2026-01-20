@@ -11,7 +11,7 @@ Quick snapshot about me~💫
 
 <img align="right" width="300" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
 
-- Focus: AI Research & Application (especially in Generative Models)
+- Focus: AI Research & Application (*especially in Generative Models*)
 - Current education: AI Engineering Major at Sepuluh Nopember Institute of Technology
 - Currently learning: LLMs, Diffuser, and RVC
 - Programming language: Python & Javascripts (sometime)
@@ -42,7 +42,7 @@ I also have a soft spot for **anime (アニメ) datasets** — *text, images, au
 *if it’s about anime, I will probably try it at least once* (๑'ᵕ'๑)⸝*
 
 On the side, I’m usually:  
-turning anime data into small multimodal prototypes, hunting for more efficient (and consistently functional) architectures,  
+turning anime data into small multimodal prototypes, hunting for more efficient (*and consistently functional*) architectures,  
 reading biology/science stuff and going *“wait… can ML do that?”* 🧬,  
 and training while listening to **classical / romance** vibes like it’s my character development arc 🎻
 
