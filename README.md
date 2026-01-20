@@ -14,7 +14,7 @@ Quick snapshot about me~💫
 - Focus: AI Research & Application (*especially in Generative Models*)
 - Current education: AI Engineering Major at Sepuluh Nopember Institute of Technology
 - Currently learning: LLMs, Diffuser, and RVC
-- Programming language: Python & Javascripts (sometime)
+- Programming language: Python & Javascripts (*sometime*)
 - My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡: Kaoruko Waguri🍓 & Vestia Zeta🐱
 - Fav music vibe: Classical & Romantic 𝄞
 
