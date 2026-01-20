@@ -41,7 +41,7 @@ I’ve been vibing with things like~✨
 - **Data Science or something like that...**  
 - **AI engineering** under tight compute (*LoRA/LoRA+/PEFT and other “please fit in VRAM” rituals*)
 
-I also have a soft spot for **anime (アニメ) datasets** — *text, images, audio…* <img src="LINK_GAMBAR_ATAU_GIF" height="16" alt="wave" />  
+I also have a soft spot for **anime (アニメ) datasets** — *text, images, audio…* <img src="public\𝐕𝐞𝐬𝐭𝐢𝐚 𝐙𝐞𝐭𝐚.jpg" height="20" alt="wave" />  
 *if it’s about anime, I will probably try it at least once* (๑'ᵕ'๑)⸝*
 
 On the side, I’m usually:  
