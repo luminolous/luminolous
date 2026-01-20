@@ -36,9 +36,9 @@ Quick snapshot about me~💫
 I’ve been vibing with things like~✨
 
 - **Large Language Models**  
-- **Diffusers / image gen**  
+- **Diffusers / Image Generation**  
 - **Retrieval-based Voice Conversion (RVC)**
-- **Music generation**  
+- **Data Science or something like that...**  
 - **AI engineering** under tight compute (*LoRA/LoRA+/PEFT and other “please fit in VRAM” rituals*)
 
 I also have a soft spot for **anime (アニメ) datasets** — *text, images, audio…*  
