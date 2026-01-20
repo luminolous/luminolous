@@ -7,13 +7,16 @@
 
 **<h2 align="left">🌨️ About me~</h2>**
 
+Quick snapshot about me~💫
+
+<img align="right" width="180" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
 - Focus: AI Research & Application (especially in Generative Models)
 - Current education: AI Engineering Major at Sepuluh Nopember Institute of Technology
 - Currently learning: LLMs, Diffuser, and RVC
 - Programming language: Python & Javascripts (sometime)
-- My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡: Kaoruko Waguri🍓 (from [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/anime/59845/Kaoru_Hana_wa_Rin_to_Saku))
-- Favorites: Sweet Foods, Piano & Violin, Something cute
+- My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡: Kaoruko Waguri🍓 & Vestia Zeta🐱
 - Fav music vibe: Classical & Romantic 𝄞
+<br clear="right"/>
 
 <!--
 | Category | Details |
