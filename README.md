@@ -10,12 +10,14 @@
 Quick snapshot about me~💫
 
 <img align="right" width="180" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
+
 - Focus: AI Research & Application (especially in Generative Models)
 - Current education: AI Engineering Major at Sepuluh Nopember Institute of Technology
 - Currently learning: LLMs, Diffuser, and RVC
 - Programming language: Python & Javascripts (sometime)
 - My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡: Kaoruko Waguri🍓 & Vestia Zeta🐱
 - Fav music vibe: Classical & Romantic 𝄞
+
 <br clear="right"/>
 
 <!--
