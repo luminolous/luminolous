@@ -9,7 +9,7 @@
 
 Quick snapshot about me~💫
 
-<img align="right" width="180" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
+<img align="right" width="360" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
 
 - Focus: AI Research & Application (especially in Generative Models)
 - Current education: AI Engineering Major at Sepuluh Nopember Institute of Technology
