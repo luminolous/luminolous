@@ -5,6 +5,18 @@
   <img src="public\myoc1.png" width="720" alt="my cutie ava">
 </p>
 
+<p align="center">
+  <a href="https://huggingface.co/lumicero">
+    <img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+  </a>
+  <a href="https://www.kaggle.com/luminolous">
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/756400596126269480">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
 <h2 align="left">🌨️ About me~</h2>
 
 Quick snapshot about me~💫
@@ -47,11 +59,11 @@ reading biology/science stuff and going *“wait… can ML do that?”* 🧬,
 and training while listening to **classical / romance** vibes like it’s my character development arc 🎻
 
 *Occasionally, I touch grass too* (ごく稀に) (￣▽￣)ゞ
-
+<!--
 <h2 align="left">🫧 Find me elsewhere!</h2>
 <a href="https://huggingface.co/lumicero" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="test" height="40" width="50" /></a>
 <a href="https://www.kaggle.com/luminolous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="test" height="30" width="40" /></a>
 <a href="https://discord.com/users/756400596126269480" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="test" height="35" width="45" /></a>
-
+-->
 ---
 **❄️Thanks for visiting & have a nice day! (๑>؂•̀๑)**
