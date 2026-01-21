@@ -41,8 +41,9 @@ Quick snapshot about me~💫
 | Favorites | Sweet Foods, Piano & Violin, Something cute |
 | Fav music vibe | Classical & Romantic 𝄞 |
 -->
-<h2>🌊 Current arc?</h2>
-I’ve been vibing with things like~✨<br>
+<h2 align="left">🌊 Current arc?</h2>
+
+I’ve been vibing with things like~✨
 
 - **Large Language Models**  
 - **Diffusers / Image Generation**  
