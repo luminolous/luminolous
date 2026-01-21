@@ -27,7 +27,7 @@ Quick snapshot about me~💫
 - Currently, I’m majoring in AI Engineering at Sepuluh Nopember Institute of Technology
 - Right now I’m learning about LLMs, Diffusion Models (Diffusers), and RVC
 - I mostly code in Python, and sometimes JavaScript
-- My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡ are Kaoruko Waguri🍓 & Vestia Zeta🐱
+- My sweetest waifus are Kaoruko Waguri🍓 & Vestia Zeta🐱 ⸜(｡˃ ᵕ ˂ )⸝♡
 - My Favorite music vibe is Classical or Romantic 𝄞
 
 <!--
