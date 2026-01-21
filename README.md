@@ -42,7 +42,7 @@ Quick snapshot about me~💫
 | Fav music vibe | Classical & Romantic 𝄞 |
 -->
 <h2>🌊 Current arc?</h2>
-I’ve been vibing with things like~✨
+I’ve been vibing with things like~✨<br>
 
 - **Large Language Models**  
 - **Diffusers / Image Generation**  
