@@ -28,7 +28,7 @@ Quick snapshot about me~💫
 - Right now I’m learning about LLMs, Diffusion Models (Diffusers), and RVC
 - I mostly code in Python, and sometimes JavaScript
 - My sweetest waifus are Kaoruko Waguri🍓 & Vestia Zeta🐱 (˶˃𐃷˂˶)
-- My Favorite music vibe is Classical or Romantic 𝄞
+- I’m a classical music enjoyer btw...
 
 <!--
 | Category | Details |
