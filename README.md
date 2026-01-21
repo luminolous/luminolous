@@ -25,7 +25,7 @@ Quick snapshot about me~💫
 
 - I'm currently focused on AI Research & Application (*especially in Generative Models*)
 - I’m currently majoring in AI Engineering at Sepuluh Nopember Institute of Technology
-- Right now I’m learning about LLMs, diffusion models (🤗 Diffusers), and RVC
+- Right now I’m learning about LLMs, Diffusion Models (Diffusers), and RVC
 - I mostly code in Python, and sometimes JavaScript
 - My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡ are Kaoruko Waguri🍓 & Vestia Zeta🐱
 - My Favorite music vibe is Classical or Romantic 𝄞
