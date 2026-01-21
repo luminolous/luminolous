@@ -24,7 +24,7 @@ Quick snapshot about me~💫
 <img align="right" width="300" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
 
 - I'm currently focused on AI Research & Application
-- I’m currently majoring in AI Engineering at Sepuluh Nopember Institute of Technology
+- Currently, I’m majoring in AI Engineering at Sepuluh Nopember Institute of Technology
 - Right now I’m learning about LLMs, Diffusion Models (Diffusers), and RVC
 - I mostly code in Python, and sometimes JavaScript
 - My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡ are Kaoruko Waguri🍓 & Vestia Zeta🐱
