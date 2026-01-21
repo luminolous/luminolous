@@ -28,7 +28,7 @@ Quick snapshot about me~💫
 - Right now I’m learning about LLMs, Diffusion Models (Diffusers), and RVC
 - I mostly code in Python, and sometimes JavaScript
 - My sweetest waifus are Kaoruko Waguri🍓 & Vestia Zeta🐱 (˶˃𐃷˂˶)
-- I’m a classical music enjoyer btw...
+- I’m a classical music enjoyer btw
 
 <!--
 | Category | Details |
@@ -47,7 +47,7 @@ I’ve been vibing with things like~✨
 - **Large Language Models**  
 - **Diffusers / Image Generation**  
 - **Retrieval-based Voice Conversion (RVC)**
-- **Data Science or something like that...**  
+- **Data Science** or something like that...  
 - **AI engineering** under tight compute (*LoRA/LoRA+/PEFT and other “please fit in VRAM” rituals*)
 
 I also have a soft spot for **anime (アニメ) datasets** — *text, images, audio…* <img src="public\𝐕𝐞𝐬𝐭𝐢𝐚 𝐙𝐞𝐭𝐚.jpg" height="18" alt="wave" />  
