@@ -61,10 +61,11 @@ and training while listening to **classical / romance** vibes like it’s my cha
 
 *Occasionally, I touch grass too* (ごく稀に) (￣▽￣)ゞ
 <!--
-<h2 align="left">🫧 Find me elsewhere!</h2>
-<a href="https://huggingface.co/lumicero" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="test" height="40" width="50" /></a>
-<a href="https://www.kaggle.com/luminolous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="test" height="30" width="40" /></a>
-<a href="https://discord.com/users/756400596126269480" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="test" height="35" width="45" /></a>
+<h2 align="left">🫧 Highlight what I've done!</h2>
+
+- Test
+  - test
+
 -->
 ---
 **❄️Thanks for visiting & have a nice day! (๑>؂•̀๑)**
