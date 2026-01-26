@@ -68,4 +68,4 @@ and training while listening to **classical / romance** vibes like it’s my cha
 
 -->
 ---
-**❄️Thanks for visiting & have a nice day! (๑>؂•̀๑)**
+**❄️ご訪問ありがとうございます。よい一日を！ (๑>؂•̀๑)**
