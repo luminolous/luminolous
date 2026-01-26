@@ -57,7 +57,7 @@ I also have a soft spot for **anime (アニメ) datasets** — *text, images, au
 On the side, I’m usually:  
 turning anime data into small multimodal prototypes, hunting for more efficient (*and consistently functional*) architectures,  
 reading biology/science stuff and going *“wait… can ML do that?”* 🧬,  
-and training while listening to **classical / romance** vibes like it’s my character development arc 🎻
+and training while listening to **classical / romance** music 🎻
 
 *Occasionally, I touch grass too* (ごくまれに) (￣▽￣)ゞ
 <!--
