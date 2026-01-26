@@ -25,9 +25,8 @@ Quick snapshot about me~💫
 
 - I'm currently focused on AI Research & Application
 - Currently, I’m majoring in AI Engineering at Sepuluh Nopember Institute of Technology
-- Right now I’m learning about LLMs, Diffusion Models (Diffusers), and RVC
+- Right now I’m learning about Generation Model (LLMs, Diffuser / Image Gen, and Music too), and RVC
 - I mostly code in Python, and sometimes JavaScript
-- My sweetest waifus are Kaoruko Waguri🍓 & Vestia Zeta🐱 (˶˃𐃷˂˶)
 - I’m usually listening to classical music 𝄞
 
 <!--
@@ -48,6 +47,7 @@ I’ve been vibing with things like~✨
 - **Large Language Models**  
 - **Diffusers / Image Generation**  
 - **Retrieval-based Voice Conversion (RVC)**
+- **Music Generation Model** (*like DiT or any architecture*)
 - **Data Science** or something like that...  
 - **AI engineering** under tight compute (*LoRA/LoRA+/PEFT and other “please fit in VRAM” rituals*)
 
