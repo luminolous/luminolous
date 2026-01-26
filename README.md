@@ -59,7 +59,7 @@ turning anime data into small multimodal prototypes, hunting for more efficient 
 reading biology/science stuff and going *“wait… can ML do that?”* 🧬,  
 and training while listening to **classical / romance** vibes like it’s my character development arc 🎻
 
-*Occasionally, I touch grass too* (ごく稀に) (￣▽￣)ゞ
+*Occasionally, I touch grass too* (ごくまれに) (￣▽￣)ゞ
 <!--
 <h2 align="left">🫧 Highlight what I've done!</h2>
 
