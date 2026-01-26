@@ -1,5 +1,5 @@
 **<h1 align="center">Hi there! I'm Lumy☃️</h1>**
-**<h3 align="center">Welcome to my github account ・ よろしく! (｡•̀ᴗ-)✧ </h3>**　
+**<h3 align="center">Welcome to my github account ・ よろしく! (｡•̀ᴗ-)✧ </h3>**
 
 <p align="center">
   <img src="public\myoc1.png" width="720" alt="my cutie ava">
