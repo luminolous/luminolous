@@ -23,7 +23,7 @@ Quick snapshot about me~💫
 
 <img align="right" width="300" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
 
-- I'm currently focused on AI Research & Application
+- Focused on AI Research & Application
 - Currently, I’m majoring in AI Engineering at Sepuluh Nopember Institute of Technology
 - Right now I’m learning about Generation Model (LLMs, Diffuser / Image Gen, and Music too ૮₍ ´ ꒳ `₎ა ), and RVC
 - I mostly code in Python, and sometimes JavaScript
