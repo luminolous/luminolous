@@ -25,7 +25,7 @@ Quick snapshot about me~💫
 
 - Focused on AI Research & Application
 - Currently, I’m majoring in AI Engineering at Sepuluh Nopember Institute of Technology
-- Right now I’m learning about Generation Model (LLMs, Diffuser / Image Gen, and Music too ૮₍ ´ ꒳ `₎ა ), and RVC
+- Right now I’m learning about Generation Model (Diffuser / Image Gen, LLMs, and Music too ૮₍ ´ ꒳ `₎ა ), and RVC
 - I mostly code in Python, and sometimes JavaScript
 - I’m usually listening to classical music 𝄞
 
