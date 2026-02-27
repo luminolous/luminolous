@@ -81,9 +81,10 @@ and training while listening to **classical / romance** music 🎻
 
 - ***Web Application***
   - [*Cross Lingual Waguri AI*](https://github.com/luminolous/CrossLingual-WaguriAI) -> Waguri AI is a bilingual chatbot web app built as a demonstration of fine-tuning Qwen2.5-0.5B using Mixture of LoRA Experts (X-LoRA) for the English–Indonesian pair. This web app is built using Next.js, Typescript, and Tailwind CSS for the frontend and FastAPI for the backend
+<!--
   - *Space for Diffusion Model LoRA Demo* -> 
   - *Space for Diffusion Model LoRA w/ Dreambooth Demo* -> 
-
+-->
 - ***Game Development***
   - [*Quantum Lite Chess*](https://github.com/luminolous/quantum-lite-chess) -> A Pygame-based chess game that adds a “quantum-lite” layer on top of standard chess rules: pieces can split into two destinations, the game can maintain multiple classical branches at once, and some events behave like probabilistic measurement/collapse
 
