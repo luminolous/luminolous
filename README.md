@@ -60,6 +60,34 @@ reading biology/science stuff and going *“wait… can ML do that?”* 🧬,
 and training while listening to **classical / romance** music 🎻
 
 *Occasionally, I touch grass too* (ごくまれに) (￣▽￣)ゞ
+
+<h2 align="left">🫧 My Featured Project!</h2>
+
+- ***Generative Models***
+  - [*Frieren Diffusion LoRA*](https://huggingface.co/lumicero/frieren-waifu-diffusion-lora) -> In this project, I fine-tune a lightweight LoRA adapter for the Waifu Diffusion text-to-image model (hakurei/waifu-diffusion) using the CyberHarem Frieren dataset
+  - [*Frieren Diffusion LoRA w/ Dreambooth*](https://huggingface.co/lumicero/frieren-waifu-diffusion-lora-db) -> In this project, I fine-tune waifu-diffusion model using DreamBooth with a lightweight LoRA adapter to learn Frieren’s identity
+
+- ***LLMs***
+  - [*X-LoRA for Cross Lingual Task in Qwen2.5-0.5B*](https://huggingface.co/lumicero/Qwen2.5-bilingual-xlora) -> Attempting to implement the X-LoRA architecture in a Bilingual (English-Indonesian) task. The datasets used were CendolCollectionv2 for Indonesian and OpenOrca for English
+  - [*Qwen3 Astrophysics LoRA*](https://huggingface.co/lumicero/qwen3-astroph-lora) -> Finetuning Qwen3 - 1.7B using LoRA for astronomy QA
+
+- ***Computer Vision***
+  - [*FGVC in Nakano Siblings Image Classification*](https://huggingface.co/spaces/lumicero/FGVC-Nakano-Quintuplets) -> Implementation of Fine-Grained Visual Categorization (FGVC) on The Quintessential Quintuplets Images Dataset using TransFG is a project that trains a fine-grained image classifier to distinguish between the five visually similar Nakano sisters (Ichika, Nino, Miku, Yotsuba, and Itsuki) using The Quintessential Quintuplets Images dataset
+  - [*Chibi Style Detection*](https://huggingface.co/spaces/lumicero/Chibi-Style-Detection) -> Chibi Style Detection is a computer-vision project that determines whether an input image looks “chibi” or “non-chibi.” It’s built with Anomalib’s PatchCore, a memory-bank anomaly detection approach that compares patch-level CNN features against a stored set of “normal” features to produce an anomaly score and a localization heatmap.
+
+- ***Tools & Framework***
+  - [*MoeScraper*](https://github.com/luminolous/moescraper) -> Python toolkit/library to help retrieve and collect image data from anime image websites like danbooru, safebooru, and zerochan. It also supports searches based on desired tags and filters for NSFW images
+  - [*Frameko*](https://github.com/luminolous/frameko) -> Python toolkit to convert video (animation or else) into multiple frames and collect them into an image dataset. This tool is can be used to add more data or collect a dataset that will be used to train a model
+
+- ***Web Application***
+  - [*Cross Lingual Waguri AI*](https://github.com/luminolous/CrossLingual-WaguriAI) -> Waguri AI is a bilingual chatbot web app built as a demonstration of fine-tuning Qwen2.5-0.5B using Mixture of LoRA Experts (X-LoRA) for the English–Indonesian pair. This web app is built using Next.js, Typescript, and Tailwind CSS for the frontend and FastAPI for the backend
+  - *Space for Diffusion Model LoRA Demo* -> 
+  - *Space for Diffusion Model LoRA w/ Dreambooth Demo* -> 
+
+- ***Game Development***
+  - [*Quantum Lite Chess*](https://github.com/luminolous/quantum-lite-chess) -> A Pygame-based chess game that adds a “quantum-lite” layer on top of standard chess rules: pieces can split into two destinations, the game can maintain multiple classical branches at once, and some events behave like probabilistic measurement/collapse
+
+
 <!--
 <h2 align="left">🫧 Highlight what I've done!</h2>
 
