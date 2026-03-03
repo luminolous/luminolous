@@ -1,4 +1,5 @@
-**<h1 align="left">Hi there! I'm Lumy☃️ ・ よろしく! (｡•̀ᴗ-)✧</h1>**
+**<h1 align="center">Hi there! I'm Lumy☃️</h1>**
+**<p align="center">よろしく! ・ (｡•̀ᴗ-)✧</p>**
 
 <p align="center">
   <img src="public\myoc1.png" width="720" alt="my cutie ava">
