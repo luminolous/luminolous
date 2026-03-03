@@ -1,7 +1,6 @@
-**<h1 align="center">Hi there! I'm Lumy☃️</h1>**
-**<h3 align="center">Welcome to my github account ・ よろしく! (｡•̀ᴗ-)✧ </h3>**
+**<h1 align="center">Hi there! I'm Lumy☃️ ・ よろしく! (｡•̀ᴗ-)✧</h1>**
 
-<p align="center">
+<!-- <p align="center">
   <img src="public\myoc1.png" width="720" alt="my cutie ava">
 </p>
 
@@ -15,7 +14,7 @@
   <a href="https://discord.com/users/756400596126269480">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <h2 align="left">🌨️ About me~</h2>
 
