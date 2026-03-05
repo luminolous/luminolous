@@ -1,5 +1,7 @@
+<!--
 **<h1 align="center">Hi there! I'm Lumy☃️</h1>**
 **<p align="center">よろしく! ・ (｡•̀ᴗ-)✧</p>**
+-->
 
 <p align="center">
   <img src="public\banner.png" width="720" alt="my cutie ava">
