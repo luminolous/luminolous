@@ -2,7 +2,7 @@
 **<p align="center">よろしく! ・ (｡•̀ᴗ-)✧</p>**
 
 <p align="center">
-  <img src="public\myoc1.png" width="720" alt="my cutie ava">
+  <img src="public\banner.png" width="720" alt="my cutie ava">
 </p>
 
 <p align="center">
