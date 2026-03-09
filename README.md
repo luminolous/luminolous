@@ -19,6 +19,7 @@
   </a>
 </p>
 
+
 <h2 align="left">🌨️ About me~</h2>
 
 Quick snapshot about me~💫
@@ -28,7 +29,7 @@ Quick snapshot about me~💫
 - Focused on AI Research & Application
 - Currently, I’m majoring in AI Engineering at Sepuluh Nopember Institute of Technology
 - Right now I’m learning about Generation Model (Diffuser / Image Gen, LLMs, and Music too ૮₍ ´ ꒳ `₎ა ), and RVC
-- I mostly code in Python, and sometimes JavaScript
+- I mostly code in Python, and sometimes Javascript
 - I’m usually listening to classical music 𝄞
 
 <!--
