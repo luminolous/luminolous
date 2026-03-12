@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="public\banner-me.png" width="720" alt="my cute banner">
+  <img src="public\banner-self.png" width="720" alt="my cute banner">
 </p>
 
 <p align="center">
