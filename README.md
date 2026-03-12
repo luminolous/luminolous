@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="public\banner.png" width="720" alt="my cutie ava">
+  <img src="public\banner-1.png" width="720" alt="my cutie ava">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 Quick snapshot about me~💫
 
-<img align="right" width="300" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" />
+<!-- <img align="right" width="300" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" /> -->
 
 - Focused on AI Research & Application
 - Currently, I’m majoring in AI Engineering at Sepuluh Nopember Institute of Technology
