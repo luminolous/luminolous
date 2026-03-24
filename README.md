@@ -19,12 +19,14 @@
   </a>
 </p>
 
+<p align="center">
+  ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ ࣭ ꒷꒦⭑꒷꒦︶꒷꒦
+</p>
 
-<!-- <h2 align="left">🌨️ About me~</h2> -->
+
+<h2 align="left">🌨️ About me~</h2>
 
 Quick snapshot about me~💫
-
-꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ ࣭ ꒷꒦⭑꒷꒦︶꒷꒦
 
 <!-- <img align="right" width="300" src="https://media1.tenor.com/m/Ax-QQpA7FKsAAAAC/wakatsuki-nico.gif" alt="cute gif" /> -->
 
