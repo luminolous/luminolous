@@ -3,6 +3,7 @@
 **<p align="center">よろしく! ・ (｡•̀ᴗ-)✧</p>**
 -->
 
+<!--
 <p align="center">
   <img src="public\banner-self-1.png" width="720" alt="my cute banner">
 </p>
@@ -18,6 +19,7 @@
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+-->
 
 <!--
 <p align="center">
