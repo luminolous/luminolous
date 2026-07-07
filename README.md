@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/♥.gif" width="900" alt="banner">
+  <img src="public/Moth&Dust.gif" width="900" alt="banner">
 </p>
 
 <!-- I work mainly on deep learning, with most of my curiosity sitting on the generative side. Image and language models, the adapters that bend them, what makes a small one surprisingly capable. The architecture itself is what I keep coming back to: why a block exists, what happens when you swap it, where the real limits are. Most of my projects come out of that habit, and the writeups usually start as an attempt to figure out why a result was either better or worse than I expected.
