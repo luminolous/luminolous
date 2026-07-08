@@ -25,7 +25,7 @@ Here are some highlights:
   - Benchmarked the proposed encoder against CNN (EEGNet), Transformer (EEG-Conformer), and standard Mamba-3 baselines on EEG-ImageNet (62-channel, 500-timestep signals) using a frozen Stable Diffusion 1.5 generator, isolating all performance differences to the encoder design.
   - Ran three ablation scenarios (architecture comparison, hyperparameter sensitivity, loss function study) and found FreqMamba-3 nearly doubled embedding alignment over CNN/Transformer baselines (cosine similarity 0.068 vs. 0.028–0.038) at identical parameter count (802K), with InfoNCE+Cosine loss further boosting alignment to 0.249.
 
-- [**NH-LoRA: Future-Aware Structural Expansion of Low-Rank Adapters for Rehearsal-Free Class-Incremental Learning**](https://github.com/luminolous/NH-LoRA)
+<!-- - [**NH-LoRA: Future-Aware Structural Expansion of Low-Rank Adapters for Rehearsal-Free Class-Incremental Learning**](https://github.com/luminolous/NH-LoRA)
   - Developed NH-LoRA, a parameter-efficient continual learning architecture for rehearsal-free class-incremental image classification using a frozen Vision Transformer and low-rank adapter expansion.
   - Designed task-aware adaptation mechanisms including a Task-State Encoder, Horizon Planner, Instance Router, and Consolidation-Homeostasis Unit to balance plasticity, stability, and parameter growth.
   - Implemented and evaluated the NH-LoRA training pipeline on continual image classification benchmarks using metrics such as Average Incremental Accuracy, Final Average Accuracy, and Forgetting.
@@ -33,7 +33,7 @@ Here are some highlights:
 - [**Multi-Task Learning with DNABERT for Joint gRNA On-Target and Off-Target Prediction**](https://github.com/luminolous/CRISPR-MTL)
   - Fine-tuned DNABERT as a shared encoder to jointly predict CRISPR-Cas9 gRNA on-target efficiency (regression) and off-target activity (classification) within a single multi-task network.
   - Designed a two-phase fine-tuning schedule with selective layer unfreezing (layers 9–12) and ran four ablation variants, finding that full-layer fine-tuning caused catastrophic forgetting on small-scale genomic data (Spearman 0.769 vs. 0.812).
-  - Applied Integrated Gradients to compare attribution patterns between task heads and evaluated performance via 5-fold cross-validation. MTL-Full achieved Spearman 0.812 on-target and AUROC 0.811 off-target, outperforming single-task DNABERT (AUROC 0.771).
+  - Applied Integrated Gradients to compare attribution patterns between task heads and evaluated performance via 5-fold cross-validation. MTL-Full achieved Spearman 0.812 on-target and AUROC 0.811 off-target, outperforming single-task DNABERT (AUROC 0.771). -->
 
 > For more of my work, including unfinished or unpublished projects, check my [personal website](https://luminolous.site) or browse my [repository list](https://github.com/luminolous?tab=repositories) directly.
 
